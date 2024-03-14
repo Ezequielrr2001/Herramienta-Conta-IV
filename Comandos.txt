@@ -1,0 +1,13 @@
+git clone https://github.com/Ezequielrr2001/Herramienta-Conta-IV.git
+
+CONFIGURACIÓN GLOBAL:
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+COMANDOS MÁS UTILIZADOS:
+
+git add -A
+git commit -m "first commit"
+git push -u origin main
+git pull (aplicar antes de trabajar a nivel local)

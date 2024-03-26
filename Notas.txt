@@ -1,0 +1,6 @@
+Hacer la advertencia (doble) de cuando se cambie actividad se borre la DB.
+Buscar la posibilidad de guardar la DB.
+Arreglar el procedimiento de las filas.
+Hacer el boton para regresar desde la DB a Registro de compra.
+Buscar los Iconos que hacen falta para las actividades.
+Hacer la página "D-105" con todos los datos (Yo me encargo de las filas).
